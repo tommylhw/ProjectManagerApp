@@ -8,5 +8,4 @@
 <div style="display: flex; width: 100%; margin: auto;">
     <img src="https://github.com/tommylhw/ProjectManagerApp/blob/main/assets/UI_1.png?raw=true" width="30%" style="margin: 5px">
     <img src="https://github.com/tommylhw/ProjectManagerApp/blob/main/assets/UI_2.png?raw=true" width="30%" style="margin: 5px">
-    <img src="https://github.com/tommylhw/ProjectManagerApp/blob/main/assets/UI_3.png?raw=true" width="30%" style="margin: 5px">
 </div>
